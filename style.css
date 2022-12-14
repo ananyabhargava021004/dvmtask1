@@ -1,0 +1,31 @@
+
+.box{
+    
+     background-color: beige;
+}
+
+
+
+.fcontainer{
+    border:2px black;
+    display:flex;
+    flex-direction: row-reverse;
+    align-items: stretch;
+}
+
+
+.container{
+    border:2px black;
+    display:flex;
+    flex-direction: row-reverse;
+}
+
+
+.fitem{
+    background-color:lavender;
+    border:2px black;
+    margin:10px;
+    width:150px;
+    height:150px;
+    align-items: flex-end;
+}    
